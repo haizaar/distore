@@ -1,5 +1,5 @@
 # Distore
-Firmware distribution daemon for Linux defives over LAN.
+Firmware distribution daemon for Linux devices over LAN.
 
 Synchronizes firmware, or any other fies Linux boxes that are running this daemon. Written in C for small memory footprint, suitable for embedded devices.
 
